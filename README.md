@@ -28,6 +28,9 @@ Meu foco principal é o desenvolvimento **backend**, lógica, APIs, banco de dad
 ## 📂 O que você encontra aqui
 
 Por enquanto, meus repositórios são exercícios e projetos das aulas da faculdade principalmente HTML e CSS. Simples, mas honestos.
+- 🎨 Projetos de HTML e CSS das aulas da faculdade
+- 🐍 Scripts Python de automação
+- 📊 Planilhas automatizadas com Python
 
 Cada commit é um passo. Acompanhe a evolução. 📈
 
