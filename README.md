@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/pedro-cassiano0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://wa.me/+5534992108393">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -21,7 +24,7 @@ Estou em transição de carreira para a tecnologia, com o apoio da graduação e
 
 Antes de migrar para a área, atuei em ambientes industriais com foco em análise de dados, automação de processos e documentação técnica, experiências que me deram raciocínio analítico e visão de sistemas que carrego para o desenvolvimento.
 
-O que você encontra aqui é **código real de quem está aprendendo de verdade** desde os primeiros projetos em HTML e CSS até os experimentos em Python que vêm pela frente.
+O que você encontra aqui é **código real de quem está aprendendo de verdade** desde os primeiros projetos em HTML, CSS e Python até os experimentos em TypeScript | JavaScript que vêm pela frente.
 
 Meu foco principal é o **backend**: lógica, APIs, banco de dados e arquitetura de sistemas. Ao mesmo tempo, entendo que um bom desenvolvedor precisa conhecer o ecossistema completo, então estou construindo também minha base no **frontend**.
 
@@ -35,6 +38,8 @@ Meu foco principal é o **backend**: lógica, APIs, banco de dados e arquitetura
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -44,9 +49,11 @@ Projetos e exercícios práticos que documentam minha evolução como desenvolve
 Cada repositório tem explicando o que foi feito, como rodar e o que aprendi,
 porque escrever sobre o código é tão importante quanto escrever o código.
 
-- 🎨 Projetos de HTML e CSS (estrutura, semântica e estilização)
-- 🐍 Scripts em Python (automação, lógica e manipulação de dados)
-- 📊 Planilhas automatizadas com Python (integração entre dados e código)
+- 🎨 Projetos de HTML e CSS (estrutura, semântica e estilização, landing page)
+- ⚖️ Website Institucional para Advocacia (landing page responsiva, SEO e usabilidade)
+- 🐍 Projetos em Python (automação, lógica e manipulação de dados, API REST)
+- 📊 Planilhas automatizadas com Python (integração entre dados e código) 
+
 
 Cada commit é um passo. Acompanhe a evolução. 📈
 ---
@@ -66,9 +73,19 @@ Cada commit é um passo. Acompanhe a evolução. 📈
 
 ## 📊 Minha atividade no GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCassiano0&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div align="center">
+  <a href="https://github.com/PedroCassiano0">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCassiano0&hide_border=true&layout=compact&theme=tokyonight&locale=pt-br" />  
+  </a>
+  
+  <a href="https://github.com/PedroCassiano0">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroCassiano0&rank_icon=github&hide=contribs&hide_border=true&commits_year=2026&theme=tokyonight&locale=pt-br&show_icons=true" />
+  </a>
+
+  <a href="https://github.com/PedroCassiano0?tab=repositories">
+  <img height="160em" src="https://streak-stats.demolab.com?user=PedroCassiano0&theme=tokyonight&hide_border=true&locale=pt_BR&mode=weekly" />
+  </a>
+</div>
 
 ---
 
